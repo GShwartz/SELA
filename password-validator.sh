@@ -25,7 +25,7 @@ show_help(){
 	echo "-p 	password's text"
 	echo "-f	password's file"
 	echo ""
-	echo "Usage: ./password_validator_feature.sh [-p] [text] | [-f] [path/to/filename]"
+	echo "Usage: ./password-validator.sh [-p] [text] | [-f] [path/to/filename]"
 
 	exit 0
 }
