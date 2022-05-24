@@ -12,6 +12,16 @@ This is a feature build for password_validator.sh. <br />
 	5. Includes Uppercase Letters [A-Z]
 	6. Includes Lowercase Letters [a-z]
 	
- ## POC Images
+ ## POC Script Images
  
- 
+ * Initial Script
+<img src=https://i.postimg.cc/HxCzMzZW/Week-1-Project-Bash.jpg>
+
+ ### Feature Script Images
+ * Help Information + POC of AD-HOC
+<img src=https://i.postimg.cc/FHzhtgxK/Week-1-Project-Bash-1.jpg>
+
+ * POC of working from a file
+<img src=https://i.postimg.cc/k4BjqGpK/Week-1-Project-Bash-2.jpg>
+
+<img src=https://i.postimg.cc/ZRGLmc3z/Week-1-Project-Bash-3.jpg>
