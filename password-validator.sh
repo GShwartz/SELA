@@ -233,7 +233,7 @@ declare -a pass
 declare -a fail
 declare -A dict
 
-# Wait & Respont to AD-HOC Command	
+# Wait & Respond to AD-HOC Command	
 while getopts 'hfp' option
 do
 	case $option in
