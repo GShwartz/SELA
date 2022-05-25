@@ -17,3 +17,15 @@ I stopped there and updated the repo from the GitHub GUI since this project is t
 
 - I've tried to create a new ssh keypair and added it to my account's SSH list.
 - I've tried to limit the SSH key only to the SELA repo.
+
+## Bonus Project - PowerShell
+
+* Showing script's help information
+<img src=https://i.postimg.cc/0jtgTt5k/Week-1-PS-Help.jpg>
+
+* Testing AD-HOC Texts
+<img src=https://i.postimg.cc/J0F63S4k/Week-1-PS-Text.jpg>
+
+* Testing strings from files
+<img src=https://i.postimg.cc/FRsDMhYS/Week-1-PS-File-1.jpg>
+<img src=https://i.postimg.cc/yx2j39vh/Week-1-PS-File-2.jpg>
