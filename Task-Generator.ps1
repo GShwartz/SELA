@@ -16,5 +16,5 @@ Register-ScheduledTask -TaskName $name -Action $action -Trigger $trigger
 # Disable Task
 Disable-ScheduledTask -TaskName $name
 
-# Display Tasks By Name
+# Display Tasks By Path
 Get-ScheduledTask | where {$_.TaskPath -eq "\"}
