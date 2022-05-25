@@ -35,6 +35,7 @@ I stopped there and updated the repo from the GitHub GUI since this project is t
 
 ## Extra Project
 * A link to the migrated repo on BitBucket can be found [here](https://bitbucket.org/gshwartz/sela/src/main/ "here") <br />
+* A Link to the Bonus Branch can be found [here](https://bitbucket.org/gshwartz/sela/src/Bonus/ "here") <br />
 
 * Created a Script that opens notepad with Hello World <br />
 <img src=https://i.postimg.cc/m2rqLBtL/Week-1-Project-Open.jpg> <br />
