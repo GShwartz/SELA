@@ -1,7 +1,6 @@
 ﻿<#
-    This is a feature build for password_validator.sh.
-    The original script only checks for passwords comes from AD-HOC command.
-    This feature is a solution for working with files and a decent summerization.
+    This is a PowerShell version to password_validator.sh.
+    A solution for working with files and text from AD-HOC.
                 
     The script breakes down to 6 main functions that checks if the string matches the requirements.
     1. Above 10 characters.
@@ -130,12 +129,7 @@ function Inspect-File {
 }
 
 # Initiate Lists, Counters & Dict
-$passed = 0
-$failed = 0
 $checked = 0
-
-$pass = @()
-$fail = @()
 
 # Respond to AD-HOC Command
 if (($args.Count -gt 0) -and ($args[0] -eq "-t") -and ($args[1].length -gt 0)) {
