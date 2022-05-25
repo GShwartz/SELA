@@ -29,3 +29,16 @@ I stopped there and updated the repo from the GitHub GUI since this project is t
 * Testing strings from files
 <img src=https://i.postimg.cc/FRsDMhYS/Week-1-PS-File-1.jpg>
 <img src=https://i.postimg.cc/yx2j39vh/Week-1-PS-File-2.jpg>
+
+## Extra Project
+* Created a Script that opens notepad with Hello World <br />
+<img src=https://i.postimg.cc/m2rqLBtL/Week-1-Project-Open.jpg> <br />
+
+* Added a disabled "MyTask" to Task Scheduler <br />
+<img src=https://i.postimg.cc/MpH8F1yY/Week-1-Project-Task-Scheduler.jpg> <br />
+
+* Displaying Tasks <br />
+<img src=https://i.postimg.cc/L8YbPDtG/Week-1-Project-Task-Scheduler-2.jpg>
+
+- I ran into some trouble adding the Interval and Duration to the trigger <br />
+- and trying to filter the display to show only the names of the tasks. <br />
