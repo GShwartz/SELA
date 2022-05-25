@@ -5,6 +5,9 @@ I stopped there and updated the repo from the GitHub GUI since this project is t
 
 - The 'feature' branch can be reached [here](https://github.com/GShwartz/SELA/tree/feature "here") <br />
 
+## Initial Script POC
+<img src=https://camo.githubusercontent.com/c2a364de687150da320834352a43cba8ca8891072d08cc1d298df621fdb63862/68747470733a2f2f692e706f7374696d672e63632f4878437a4d7a5a572f5765656b2d312d50726f6a6563742d426173682e6a7067>
+
 ## GIT POC Images
 * Creating the local repo and cloning the remote.
 <img src=https://i.postimg.cc/L54j2bX7/Week-1-Project-GIT.jpg>
